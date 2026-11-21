@@ -44,7 +44,7 @@ Hotel-Offer-Orchestrator.postman_collection.json
 Prerequisite: Docker Desktop (or Docker Engine + Compose).
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SHWETA542005-code/hotel-offer-orchestrator.git
 cd hotel-offer-orchestrator
 docker compose up --build
 ```
